@@ -1,5 +1,3 @@
-
-
 Dự án Yame - Website Thương mại điện tử Bán quần áo trên nền tảng Odoo
 
 Đây là dự án xây dựng một website thương mại điện tử hoàn chỉnh cho thương hiệu thời trang Yame, được phát triển trên nền tảng Odoo. Hệ thống này không chỉ là một trang web bán hàng mà còn là một giải pháp quản lý kinh doanh toàn diện, bao gồm quản lý sản phẩm, tồn kho, đơn hàng, và khách hàng.
@@ -53,6 +51,8 @@ Invoicing
 
 Contacts
 
+Point of sale
+
 🚀 Cài đặt và Chạy dự án
 Yêu cầu:
 
@@ -70,7 +70,7 @@ download
 content_copy
 expand_less
 
-git clone https://github.com/ten-cua-ban/yame-odoo-project.git
+git clone https://github.com/Qhung29/yame-odoo-project.git
 
 Thêm vào thư mục addons:
 
