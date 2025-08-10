@@ -1,4 +1,4 @@
-Chắc chắn rồi! Viết một file README.md tốt là rất quan trọng để giới thiệu dự án của bạn. Dưới đây là một mẫu README hoàn chỉnh và chuyên nghiệp cho dự án "Yame" trên Odoo của bạn. Bạn chỉ cần sao chép, dán vào file README.md và chỉnh sửa lại các thông tin chi tiết cho phù hợp.
+
 
 Dự án Yame - Website Thương mại điện tử Bán quần áo trên nền tảng Odoo
 
